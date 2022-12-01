@@ -21,7 +21,7 @@ except ImportError:
     )
 
 setup(
-    name="eq_validator",
+    name="eq-questionnaire-validator",
     version=version,
     description="Translations infrastructure for EQ Questionnaire Runner",
     url="https://github.com/Hajara-I/eq-questionnaire-validator",
